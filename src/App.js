@@ -1,11 +1,25 @@
 import React from 'react' // Used rafce, React Arrow Function Export Component
+import './App.css'
 
-// import { Article, Brand, CTA } from './components'
+import { Brand, CTA, Navbar } from './components'
+import { Footer, Features, Blog, Possibility, WhatGPT3, Header } from './containers'
 
 const App = () => {
   return (
-    <div>
-        <h1>GPT-3</h1>
+    <div className="App">
+        <div className="gradient__bg">
+          <Navbar />
+          <Header />
+        </div>
+
+        <Brand />
+        <WhatGPT3 />
+        <Features />
+        <Possibility />
+        <CTA />
+        <Blog />
+        <Footer />
+
     </div>
   )
 }
