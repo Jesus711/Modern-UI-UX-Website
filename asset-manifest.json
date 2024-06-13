@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Modern-UI-GPT-3/static/css/main.60b8dddc.css",
+    "main.js": "/Modern-UI-GPT-3/static/js/main.a87db03a.js",
+    "static/media/Header Illustration.png": "/Modern-UI-GPT-3/static/media/Header Illustration.e03c9fcf91d924845d9b.png",
+    "static/media/Feature Image.png": "/Modern-UI-GPT-3/static/media/Feature Image.6e7a9ca3d911f10a3916.png",
+    "static/media/blog01.png": "/Modern-UI-GPT-3/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/Modern-UI-GPT-3/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/Modern-UI-GPT-3/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/Modern-UI-GPT-3/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/Modern-UI-GPT-3/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/Group 81.png": "/Modern-UI-GPT-3/static/media/Group 81.fc1245a27bc9f8fb19d9.png",
+    "static/media/GPT-3.svg": "/Modern-UI-GPT-3/static/media/GPT-3.cf6810c94fbac0cc653f939ff5723cf4.svg",
+    "index.html": "/Modern-UI-GPT-3/index.html",
+    "main.60b8dddc.css.map": "/Modern-UI-GPT-3/static/css/main.60b8dddc.css.map",
+    "main.a87db03a.js.map": "/Modern-UI-GPT-3/static/js/main.a87db03a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60b8dddc.css",
+    "static/js/main.a87db03a.js"
+  ]
+}
