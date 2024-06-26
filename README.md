@@ -1,4 +1,4 @@
-# Creating a fully responsive Modern UI UX Website using Webframework React.
+# Creating a fully responsive and modern UI UX Website using Web framework, React.
 
 Youtube Video used to follow along: https://www.youtube.com/watch?v=F627pKNUCVQ
 - Video goes through creating the website application by following a Figma Design
